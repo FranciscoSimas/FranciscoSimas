@@ -2,26 +2,32 @@
 
 I like to build things that solve real problems, keep them working, user-friendly and as automated as possible. From networks and infrastructure to full web products on my own time.
 
-📍 Ribeira Grande, Portugal · 🪪 [CCNA](https://www.credly.com/users/francisco-simas) · [CyberOps Associate](https://www.credly.com/users/francisco-simas)
+📍 Ribeira Grande, Portugal · 🪪 [CCNA](https://www.credly.com/users/francisco-simas) · [CyberOps Associate](https://www.credly.com/users/francisco-simas)  
+🔗 Portfolio view: [checkmygit.com/FranciscoSimas](https://checkmygit.com/FranciscoSimas)
 
 ---
 
-## GitHub stats
+## Overview
 
 <p align="center">
-  <img src="./assets/github-stats.svg" height="165" alt="Francisco Simas GitHub stats" />
-  <img src="./assets/top-langs.svg" height="165" alt="Top languages with percentages" />
+  <img src="./assets/quick-stats.svg" alt="Quick stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FranciscoSimas&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://ghchart.rshah.org/39d353/FranciscoSimas" alt="GitHub contribution chart" />
 </p>
-
-> Language % is computed from public GitHub repos (by code size). It is a usage snapshot, not a skill ranking.
 
 ---
 
-## Featured projects
+## Tech Stack & Languages
+
+<p align="center">
+  <img src="./assets/tech-stack-langs.svg" alt="Tech stack and language percentages" />
+</p>
+
+---
+
+## Notable Projects
 
 | Project | What it is |
 |---|---|

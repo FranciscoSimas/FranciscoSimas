@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="336" role="img" aria-label="Tech Stack and Languages">
+  <rect width="720" height="336" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <text x="24" y="32" fill="#E6EDF3" font-size="16" font-weight="700" font-family="Segoe UI, Ubuntu, sans-serif">Tech Stack &amp; Languages</text>
+
+  <rect x="16" y="44" width="200" height="276" rx="10" fill="#010409" stroke="#21262D"/>
+  <text x="28" y="68" fill="#8B949E" font-size="11" font-weight="600" font-family="Segoe UI, Ubuntu, sans-serif" letter-spacing="0.06em">CORE TECHNOLOGIES</text>
+  <circle cx="28" cy="88" r="5" fill="#3178C6"/>
+  <text x="42" y="92" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">TypeScript</text>
+  <circle cx="28" cy="116" r="5" fill="#336791"/>
+  <text x="42" y="120" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">PLpgSQL</text>
+  <circle cx="28" cy="144" r="5" fill="#00ADD8"/>
+  <text x="42" y="148" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Go</text>
+  <circle cx="28" cy="172" r="5" fill="#3572A5"/>
+  <text x="42" y="176" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Python</text>
+  <circle cx="28" cy="200" r="5" fill="#563D7C"/>
+  <text x="42" y="204" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">CSS</text>
+  <circle cx="28" cy="228" r="5" fill="#E34F26"/>
+  <text x="42" y="232" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">HTML</text>
+  <circle cx="28" cy="256" r="5" fill="#012456"/>
+  <text x="42" y="260" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">PowerShell</text>
+  <circle cx="28" cy="284" r="5" fill="#F1E05A"/>
+  <text x="42" y="288" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">JavaScript</text>
+
+
+  <rect x="232" y="44" width="472" height="276" rx="10" fill="#010409" stroke="#21262D"/>
+  <g transform="translate(260,10)">
+  <path d="M 90 72 A 58 58 0 1 1 39.17 102.06" fill="none" stroke="#3178C6" stroke-width="22"/>
+  <path d="M 39.17 102.06 A 58 58 0 0 1 66.3 77.06" fill="none" stroke="#336791" stroke-width="22"/>
+  <path d="M 66.3 77.06 A 58 58 0 0 1 74.52 74.1" fill="none" stroke="#00ADD8" stroke-width="22"/>
+  <path d="M 74.52 74.1 A 58 58 0 0 1 81.65 72.6" fill="none" stroke="#3572A5" stroke-width="22"/>
+  <path d="M 81.65 72.6 A 58 58 0 0 1 86.72 72.09" fill="none" stroke="#563D7C" stroke-width="22"/>
+
+  <circle cx="90" cy="130" r="36" fill="#010409"/>
+  <text x="90" y="126" fill="#E6EDF3" font-size="18" font-weight="700" font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="middle">5</text>
+  <text x="90" y="144" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="middle">langs</text>
+  </g>
+  <circle cx="480" cy="70" r="4" fill="#3178C6"/>
+  <text x="492" y="74" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">TypeScript</text>
+  <text x="670" y="74" fill="#8B949E" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="end">83%</text>
+  <circle cx="480" cy="100" r="4" fill="#336791"/>
+  <text x="492" y="104" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">PLpgSQL</text>
+  <text x="670" y="104" fill="#8B949E" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="end">10%</text>
+  <circle cx="480" cy="130" r="4" fill="#00ADD8"/>
+  <text x="492" y="134" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Go</text>
+  <text x="670" y="134" fill="#8B949E" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="end">2%</text>
+  <circle cx="480" cy="160" r="4" fill="#3572A5"/>
+  <text x="492" y="164" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Python</text>
+  <text x="670" y="164" fill="#8B949E" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="end">2%</text>
+  <circle cx="480" cy="190" r="4" fill="#563D7C"/>
+  <text x="492" y="194" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">CSS</text>
+  <text x="670" y="194" fill="#8B949E" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="end">1%</text>
+
+  <text x="468" y="312" fill="#484F58" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="middle">Based on ~4.1MB of public code</text>
+</svg>
