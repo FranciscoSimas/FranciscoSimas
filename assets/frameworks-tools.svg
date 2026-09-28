@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="198" role="img" aria-label="Frameworks and tools">
+  <rect width="720" height="198" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <text x="24" y="32" fill="#E6EDF3" font-size="16" font-weight="700" font-family="Segoe UI, Ubuntu, sans-serif">Frameworks &amp; tools</text>
+  <rect x="16" y="44" width="688" height="138" rx="10" fill="#010409" stroke="#21262D"/>
+  <rect x="28" y="72" width="79" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="42" cy="87" r="4" fill="#61DAFB"/>
+  <text x="54" y="91" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">React</text>
+  <rect x="117" y="72" width="94" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="131" cy="87" r="4" fill="#E6EDF3"/>
+  <text x="143" y="91" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Next.js</text>
+  <rect x="221" y="72" width="102" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="235" cy="87" r="4" fill="#FF4154"/>
+  <text x="247" y="91" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">TanStack</text>
+  <rect x="333" y="72" width="131" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="347" cy="87" r="4" fill="#38BDF8"/>
+  <text x="359" y="91" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Tailwind CSS</text>
+  <rect x="474" y="72" width="102" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="488" cy="87" r="4" fill="#3ECF8E"/>
+  <text x="500" y="91" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Supabase</text>
+  <rect x="28" y="108" width="116" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="42" cy="123" r="4" fill="#336791"/>
+  <text x="54" y="127" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">PostgreSQL</text>
+  <rect x="154" y="108" width="72" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="168" cy="123" r="4" fill="#A855F7"/>
+  <text x="180" y="127" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Vite</text>
+  <rect x="236" y="108" width="87" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="250" cy="123" r="4" fill="#E6EDF3"/>
+  <text x="262" y="127" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Vercel</text>
+  <rect x="333" y="108" width="87" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="347" cy="123" r="4" fill="#2496ED"/>
+  <text x="359" y="127" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Docker</text>
+  <rect x="430" y="108" width="146" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="444" cy="123" r="4" fill="#2088FF"/>
+  <text x="456" y="127" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">GitHub Actions</text>
+  <rect x="28" y="144" width="139" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="42" cy="159" r="4" fill="#E6EDF3"/>
+  <text x="54" y="163" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Framer Motion</text>
+  <rect x="177" y="144" width="94" height="30" rx="15" fill="#010409" stroke="#30363D"/>
+  <circle cx="191" cy="159" r="4" fill="#764ABC"/>
+  <text x="203" y="163" fill="#E6EDF3" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif">Zustand</text>
+
+</svg>

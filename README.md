@@ -25,6 +25,10 @@ I like to build things that solve real problems, keep them working, user-friendl
   <img src="./assets/tech-stack-langs.svg" alt="Tech stack and language percentages" />
 </p>
 
+<p align="center">
+  <img src="./assets/frameworks-tools.svg" alt="Frameworks and tools" />
+</p>
+
 ---
 
 ## Notable Projects
@@ -40,9 +44,7 @@ I like to build things that solve real problems, keep them working, user-friendl
 
 ---
 
-## What I work with
-
-`TypeScript` · `React` · `Next.js` · `Supabase` · `PostgreSQL` · `Go` · `Python` · `Docker` · `Kubernetes` · `Linux` · `GitHub Actions` · `Vercel` · `Networking (Cisco / Huawei)`
+## Focus
 
 Day job: DCIM / STOCK platforms, network automation, APIs and field ops.  
 Side projects: product-shaped web apps with auth, real databases and CI.
